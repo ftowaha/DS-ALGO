@@ -10,7 +10,7 @@ that subtract prime number from that perticular number in the 'int' type variabl
 and is bigger or equal to the first prime number then the value of x increases by one. 
 The loop will break if the second number is bigger than the first number.The value of x is goldbach's conjecture.</p>
 <h2>CPP<h2/>
-```cpp
+```
 #include<bits/stdc++.h>
 #include<vector>
 using namespace std;
