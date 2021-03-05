@@ -3,7 +3,7 @@
 <p>Goldbach's Conjecture is a number theory problem.in this problem you will be given a an integer.
 By how many ways, that perticular number can be expressed with the sum of two prime numbers where "first number" is
 smaller or equal to "second number".
-  first number + second number = particular number and first number <= second number.</p>
+<h2>first number + second number = particular number and first number <= second number.</h2></p>
 <h2>Solution</h2> 
 <p>Firstly put those prime numbers in an array by Sieve of Eratosthenes. Secondly take int x=0. After 
 that subtract prime number from that perticular number in the 'int' type variable. If the result is a prime number 
